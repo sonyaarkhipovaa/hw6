@@ -11,6 +11,5 @@
 ===========================
 1  ![](https://raw.githubusercontent.com/sonyaarkhipovaa/hw6/master/%D0%91%D0%B5%D0%B7%D1%8B%D0%BC%D1%8F%D0%BD%D0%BD%D1%8B%D0%B9.png)
 2  ![](https://raw.githubusercontent.com/sonyaarkhipovaa/hw6/master/55.png)
-===================================================
 С помощью данного скриншота мы можем увидеть,что дополнения *"man,yestarday"* могут использоваться как со словом "say",так и  с "tell".Например: "Say, man, you got the time?" или "Just tell the man what he wants to know."Но есть и допллнения,которые могут употребляться только с одним из глаголов,например слово *word* только с *say* "Don't say words that put people on edge".
 А слово *truth* только с *tell* "Just tell truth abut you, she'll change instantly."
